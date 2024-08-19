@@ -1,6 +1,6 @@
 watch:
-	npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+	npx tailwindcss -i ./docs/input.css -o ./docs/output.css --watch
 build:
-	npx tailwindcss -i ./src/input.css -o ./src/output.css
+	npx tailwindcss -i ./docs/input.css -o ./docs/output.css
 install:
 	npm install
