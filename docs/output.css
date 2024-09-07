@@ -619,9 +619,19 @@ html {
   font-weight: 700;
 }
 
-.text-brand-main {
+.text-brand-primary {
   --tw-text-opacity: 1;
   color: rgb(59 6 6 / var(--tw-text-opacity));
+}
+
+.text-brand-secondary {
+  --tw-text-opacity: 1;
+  color: rgb(248 113 113 / var(--tw-text-opacity));
+}
+
+.text-brand-tertiary {
+  --tw-text-opacity: 1;
+  color: rgb(0 160 214 / var(--tw-text-opacity));
 }
 
 .text-stone-600 {
