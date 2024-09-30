@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wtdruck/wtdruck/refs/heads/main/docs/favicon-dark-mode.svg" width=50px />
+
 # W. T. Druck Static Website
 
 Tailwind based static website with light and dark mode.
